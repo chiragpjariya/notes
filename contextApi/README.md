@@ -1,15 +1,7 @@
 
 # Context Api 
 
-Context api example
-
-
-
-
-## Installation
-
-
-
+## Context api example
 
 
 ```bash
